@@ -1,0 +1,11 @@
+{
+  "name": "ipcare",
+  "module": "aggregate.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "^1.4.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
